@@ -7,6 +7,9 @@ This project uses SQL to analyze customer journeys and allocate credit to market
 - Understand channel contribution to conversions
 - Support marketing budget optimization
 
+## SQL Skills: 
+- Event sequencing, session analysis, attribution logic
+
 ## 🧱 Schema
 - `customers`: Customer conversions
 - `marketing_channels`: Marketing channels metadata
